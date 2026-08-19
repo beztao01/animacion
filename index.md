@@ -4,15 +4,16 @@ layout: home
 nav_order: 1
 ---
 
-Bienvenidos a nuestra materia de Animación Difital Tridimensional que se imparte en la ingeniería en Animación e Interactividad.
+Bienvenidos a nuestra materia de Animación Digital Tridimensional que se imparte en la ingeniería en Animación e Interactividad.
 
 En esta primera sesión veremos una serie de puntos importante que te mencionará su facilitador.
 
+- [Reloj](https://beztao01.github.io/relok-uvm/) 
 - [Calendario.](https://beztao01.github.io/academia/academia/horario2026-02.jpeg)
 - El Syllabus
-- El reglamento general de la asignatura
+- [El reglamento general de la asignatura](https://beztao01.github.io/reveral/)  
 - [El reglamento de laboratorios](./assets/pdf/laboratorios.pdf)
-- Documento de información general que esta en el Blackboard
+- [Documento de información general que esta en el Blackboard ](https://github.com/beztao01/academia/blob/main/academia/DIG_ADT_L6F.pdf)
 - [Acceso a Blackboard](https://uvmonline.blackboard.com/)
 - Acreditación de la materia
 - Biblografia y referencias
