@@ -15,7 +15,7 @@ En esta primera sesión veremos una serie de puntos importante que te mencionar�
 - [El reglamento de laboratorios](./assets/pdf/laboratorios.pdf)
 - [Documento de información general que esta en el Blackboard ](https:///beztao01.github.io/academia/academia/DIG_ADT_L6F.pdf)
 - [Acceso a Blackboard](https://uvmonline.blackboard.com/)
-- Acreditación de la materia
+- Acreditación de la materia.
 - Biblografia y referencias
 - Software necesario
 - Firma de Syllabus
