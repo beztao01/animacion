@@ -13,7 +13,7 @@ En esta primera sesión veremos una serie de puntos importante que te mencionar�
 - El Syllabus
 - [El reglamento general de la asignatura](https://beztao01.github.io/reveral/)  
 - [El reglamento de laboratorios](./assets/pdf/laboratorios.pdf)
-- [Documento de información general que esta en el Blackboard ](https:///beztao01/academia/academia/DIG_ADT_L6F.pdf)
+- [Documento de información general que esta en el Blackboard ](https:///beztao01.github.io/academia/academia/DIG_ADT_L6F.pdf)
 - [Acceso a Blackboard](https://uvmonline.blackboard.com/)
 - Acreditación de la materia
 - Biblografia y referencias
