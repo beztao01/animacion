@@ -5,10 +5,11 @@ nav_order: 2
 ---
 
 # Sesión 01
+- [Reloj](https://beztao01.github.io/relok-uvm/)
 - [Calendario.](https://beztao01.github.io/academia/academia/horario2026-02.jpeg)
 - El Syllabus.
-- El reglamento general de la asignatura.
-- El reglamento de laboratorios.
+- [El reglamento general de la asignatura](https://beztao01.github.io/reveral/)
+- [El reglamento de laboratorios](https://beztao01.github.io/documentos/laboratorios.pdf)
 - Documento de información general que esta en el Blackboard.
 - [Acceso a Blackboard.](https://uvmonline.blackboard.com/)
 - Acreditación de la materia.
