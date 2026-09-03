@@ -60,6 +60,7 @@ Asimismo, puedes seleccionar el objeto de cuerpo blando mientras se ejecuta la s
  - Soft Body:: Blender [https://youtu.be/e3FM_VJndJg?si=fiEK3sDBVTDvTwkK](https://youtu.be/e3FM_VJndJg?si=fiEK3sDBVTDvTwkK)
  - Simulación Soft Body en Blender 2.9 [https://youtu.be/T_Ckr6UTHbo?si=uAl8x8jgPdJGQ9Ss](https://youtu.be/T_Ckr6UTHbo?si=uAl8x8jgPdJGQ9Ss)
  - Blender 4.5 | ¿Cómo trabajar con Softbody? (tutorial)  [https://youtu.be/fcO06z5-EoA?si=XL_WJ-IpRl8QAA3P](https://youtu.be/fcO06z5-EoA?si=XL_WJ-IpRl8QAA3P)
+ - Física de cuerpos blandos para principiantes (Tutorial de Blender)[https://youtu.be/6Dtwhd1N0bY](https://youtu.be/6Dtwhd1N0bY)
  
  
 
