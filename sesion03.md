@@ -56,7 +56,14 @@ Asimismo, puedes seleccionar el objeto de cuerpo blando mientras se ejecuta la s
 
 - Prueba a utilizar una malla de deformación (*Lattice*) o una curva guía (*Curve Guide*) con propiedades de cuerpo blando en lugar del objeto en sí; esto puede resultar muchísimo más rápido.
 
-OBtenido de: https://docs.blender.org/manual/es/5.2/physics/soft_body/introduction.html#typical-scenarios-for-using-soft-bodies 
+## Ejemplos
+ - Soft Body:: Blender [https://youtu.be/e3FM_VJndJg?si=fiEK3sDBVTDvTwkK](https://youtu.be/e3FM_VJndJg?si=fiEK3sDBVTDvTwkK)
+ - Simulación Soft Body en Blender 2.9 [https://youtu.be/T_Ckr6UTHbo?si=uAl8x8jgPdJGQ9Ss](https://youtu.be/T_Ckr6UTHbo?si=uAl8x8jgPdJGQ9Ss)
+ - Blender 4.0 Simulación física con Soft Body (tutorial) [https://youtu.be/bbSFyY9Tt4M?si=sl7gRn390xZtnRmL](https://youtu.be/bbSFyY9Tt4M?si=sl7gRn390xZtnRmL)
+ 
+
+
+Obtenido de: https://docs.blender.org/manual/es/5.2/physics/soft_body/introduction.html#typical-scenarios-for-using-soft-bodies 
 
 ## Blackboard
 Todas las actividades se entregan a las 3:00 am los días lunes.
