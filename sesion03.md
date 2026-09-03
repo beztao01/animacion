@@ -31,7 +31,7 @@ Los cuerpos blandos son apropiados para:
 
 - Banderas, mangas anchas, almohadones u otros tipos de telas simples reaccionando a fuerzas.
 
-## 
+## Creación de un cuerpo blando
 La simulación de cuerpo blando funciona con todos los objetos que poseen vértices o puntos de control (mallas, curvas, superficies y celosías).
 
 Para añadir una simulación de cuerpo blando a un objeto, ve a la pestaña de Física en el panel de Propiedades y activa el botón de Cuerpo blando (*Soft Body*). 
@@ -56,8 +56,7 @@ Asimismo, puedes seleccionar el objeto de cuerpo blando mientras se ejecuta la s
 
 - Prueba a utilizar una malla de deformación (*Lattice*) o una curva guía (*Curve Guide*) con propiedades de cuerpo blando en lugar del objeto en sí; esto puede resultar muchísimo más rápido.
 
+OBtenido de: https://docs.blender.org/manual/es/5.2/physics/soft_body/introduction.html#typical-scenarios-for-using-soft-bodies 
 
-
-Programas a utilizar
 ## Blackboard
 Todas las actividades se entregan a las 3:00 am los días lunes.
