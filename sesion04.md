@@ -6,7 +6,7 @@ nav_order: 5
 
 # Sesión 04
 
-- Actividad integridad académica
+- Actividad integridad académica Super importante
 - [Blender 5.2 LTS Reference Manual](https://docs.blender.org/manual/en/latest/)
 - [User Interface](https://docs.blender.org/manual/en/latest/interface/index.html)
 - [E-Ink lector de epub](https://e-ink.me/es/reader/epub)
