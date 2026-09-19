@@ -1,3 +1,12 @@
 title: Animación Digital Tridimensional
 description: Sitio de la asignatura Animación Digital Tridimensional
-theme: minima
+
+# Tema remoto para GitHub Pages (Obligatorio)
+remote_theme: just-the-docs/just-the-docs
+
+# Plugins obligatorios
+plugins:
+  - jekyll-remote-theme
+
+# Configuración de tema oscuro
+color_scheme: dark
