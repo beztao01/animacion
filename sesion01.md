@@ -9,7 +9,7 @@ nav_order: 2
 - [Reloj](https://beztao01.github.io/reloj-uvm/)
 - [Bitácora](https://myuvmedu.sharepoint.com/:x:/s/C1-202675L6LIC.SEMESTRALMIXTA/IQBgSCWhY-znSZJI-7qlkkB0AXKSQcg_gZ159EZ-KoyX3Co?e=tT7fr2&nav=MTVfezg2NjlEMTVBLTU0NjctNEExOC1BNkRDLUFFMkUxNTEwMDU0NX0)
 
- [Calendario..](https://beztao01.github.io/academia/academia/horario2026-02.jpeg)
+- [Calendario.](https://beztao01.github.io/academia/academia/horario2026-02.jpeg)
 - El Syllabus.
 - [El reglamento general de la asignatura](https://beztao01.github.io/reveral/)
 - [El reglamento de laboratorios](https://beztao01.github.io/documentos/laboratorios.pdf)
