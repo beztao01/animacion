@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: Sesión 01
+nav_order: 2
 ---
 
 # Sesión 01
