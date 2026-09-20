@@ -4,6 +4,9 @@ description: Sitio de la asignatura Animación Digital Tridimensional
 # Tema remoto para GitHub Pages (Obligatorio)
 remote_theme: just-the-docs/just-the-docs
 
+# Agregando el favicon
+favicon_ico: "/assets/images/post.ico"
+
 # Plugins obligatorios
 plugins:
   - jekyll-remote-theme
