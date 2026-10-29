@@ -12,8 +12,6 @@ nav_order: 12
 - [Lampara de brazos oscilantes en Blender](https://youtu.be/13VCJs7OmGo)
 - [Lampára los otros brazos](https://youtu.be/VCU_5lb2qhE) este esta en oculto en youtube y no tiene edición cheque si lo pueden visualizar
 ## tutorial de riggeo en indi
-- [Primera Parte](https://myuvmedu.sharepoint.com/:v:/r/sites/Section_N226L68520268017372/_layouts/15/stream.aspx?id=%2Fsites%2FSection%5FN226L68520268017372%2FMateriales%20de%20clase%2FrigginLuxo%2Emp4&share=cQoLPgcEof0UQakkVC9cJQtuEgUBM4dZYGia0VRD7tlqKbmBcQ
-
-)
+- [Primera Parte](https://myuvmedu.sharepoint.com/:v:/r/sites/Section_N226L68520268017372/_layouts/15/stream.aspx?id=%2Fsites%2FSection%5FN226L68520268017372%2FMateriales%20de%20clase%2FrigginLuxo%2Emp4&share=cQoLPgcEof0UQakkVC9cJQtuEgUBM4dZYGia0VRD7tlqKbmBcQ)
 ## Blackboard
 Todas las actividades se entregan a las 3:00 am los días lunes.
