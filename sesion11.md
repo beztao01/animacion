@@ -10,6 +10,7 @@ nav_order: 12
 - [Aprende a usar screw en Blender](https://youtu.be/fFzrVrWge3sS)
 - [Blender otra parte de la lampara usando el modificador screw](https://youtu.be/fFzrVrWge3s)
 - [Lampara de brazos oscilantes en Blender](https://youtu.be/13VCJs7OmGo)
+-[Lampára los otros brazos](https://youtu.be/VCU_5lb2qhE) este esta en oculto en youtube y no tiene edición cheque si lo pueden visualizar
 
 ## Blackboard
 Todas las actividades se entregan a las 3:00 am los días lunes.
