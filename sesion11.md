@@ -8,7 +8,7 @@ nav_order: 12
 - [Aprende a cortar a Pixel usando Krita](https://youtu.be/n-lmukjZLA0?si=GDksO3cVAslTCz3E)
 - [¿Comó usar cm en blender y agregar imágenes de referencia?](https://youtu.be/mC-bHnge_lk)
 - [Aprende a usar screw en Blender](https://youtu.be/fFzrVrWge3sS)
-- [Blender otra parte de la lampara usando el modificador screw](https://youtu.be/fFzrVrWge3s)
+- [Blender otra parte de la lámpara usando el modificador screw](https://youtu.be/fFzrVrWge3s)
 - [Lampara de brazos oscilantes en Blender](https://youtu.be/13VCJs7OmGo)
 - [Lampára los otros brazos](https://youtu.be/VCU_5lb2qhE) este esta en oculto en youtube y no tiene edición cheque si lo pueden visualizar
 
