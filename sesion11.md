@@ -5,7 +5,7 @@ nav_order: 12
 ---
 
 # Sesión 11
-- [Aprende a cortar a Pixel usando Krita])(https://youtu.be/n-lmukjZLA0?si=GDksO3cVAslTCz3E)
+- [Aprende a cortar a Pixel usando Krita](https://youtu.be/n-lmukjZLA0?si=GDksO3cVAslTCz3E)
 - [¿Comó usar cm en blender y agregar imágenes de referencia?](https://youtu.be/mC-bHnge_lk)
 - [Aprende a usar screw en Blender](https://youtu.be/fFzrVrWge3sS)
 - [Blender otra parte de la lampara usando el modificador screw](https://youtu.be/fFzrVrWge3s)
