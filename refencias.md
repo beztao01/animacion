@@ -33,9 +33,11 @@ experiencia adquirida en el desarrollo del cineminuto animado Yo-yo de Piro
 https://intellectum.unisabana.edu.co/bitstream/handle/10818/52540/Tesis
 %20Final%20Piro%20y%20Nola_Contreras_Diaz_Garay_%20Garcia_Ramirez
 _Rodriguez.pdf?sequence=1&isAllowed=y
+
 Cortés, J. (16 febrero, 2024 ). Los 12 principios de la animación. [Sitio web].
 Recuperado de https://www.notodoanimacion.es/los-12-principios-de-la-
 animacion-disney-libro/
+
 ente Renders. ( Productor).(2 marzo de 2022). Animación usando deformers |
 Aprende Maya. [Archivo de video]. Recuperado de
 https://www.youtube.com/watch?v=AJ5j-Aoyf4s
