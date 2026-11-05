@@ -11,6 +11,5 @@ nav_order: 13
 ## Extra y recomendable
 - [I animated the PIXAR Lamp - A Blender rigging tutorial](https://youtu.be/Xw7QGARte34?si=yTHox5k-9zCwF5xo)
 
-Programas a utilizar
 ## Blackboard
 Todas las actividades se entregan a las 3:00 am los días lunes.
