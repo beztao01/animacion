@@ -11,7 +11,7 @@ Bienvenidos a nuestra materia de Animación Digital Tridimensional que se impart
 
 > 📢 **¡ANUNCIO IMPORTANTE!**
 > <div style="background-color: #3b3a3d; color: #e6e1e8; padding: 15px; border-left: 6px solid #5ea1fb; border-radius: 5px;">
->   **Actualizaciones** 19-09-26 <br> Sesion 12 se agregan los link originales del riggeo de Luxo, y sea agrega un link más actualizado.
+>   **Actualizaciones** 19-09-26 <br> Sesión 12 se agregan los link originales del riggeo de Luxo, y se agrega un link más actualizado.
 > </div>
 
 > 📢 **¡ANUNCIO IMPORTANTE!**
